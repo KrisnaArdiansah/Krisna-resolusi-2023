@@ -2,7 +2,11 @@ RENCANA KONTEN KRISNA
 -Javascript
  *ES6
  *Framework Javascript
+  ^vue
+  ^React
 -Struktur data dasar 
 -PHP framwork
+ *laravel
 -Interview
 -vlogs
+-Python
