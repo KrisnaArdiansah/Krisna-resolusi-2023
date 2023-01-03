@@ -1,0 +1,7 @@
+RENCANA KONTEN KRISNA
+-Javascript
+ *ES6
+ *Framework Javascript
+-PHP framwork
+-Interview
+-vlogs
